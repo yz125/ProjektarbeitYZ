@@ -1,0 +1,29 @@
+{
+  "ESRS": {
+    "sheet_keyword": "ESRS",
+    "columns": [
+      "ID",
+      "ESRS",
+      "DR",
+      "Name",
+      "Data Type"
+    ]
+  },
+  "Test": {
+    "sheet_keyword": "ESRS123",
+    "columns": [
+      "Mark",
+      "David",
+      "Peter",
+      "Gustaf"
+    ]
+  },
+  "Test1": {
+    "sheet_keyword": "ESD",
+    "columns": [
+      "DS",
+      "DT",
+      "AS"
+    ]
+  }
+}
